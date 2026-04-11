@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\scripts",
     "\\src",
     "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components",
+  "SelectedNode": "\\src\\components\\AdminDashboard.jsx",
   "PreviewInSolutionExplorer": false
 }

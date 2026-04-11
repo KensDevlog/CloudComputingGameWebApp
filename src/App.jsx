@@ -6,6 +6,7 @@ import LoginForm from "./components/LoginForm";
 import GamePortal from "./components/GamePortal";
 import NavTab from "./components/NavTab";
 import MyAccount from "./components/MyAccount";
+import AdminDashboard from "./components/AdminDashboard";
 
 
 
@@ -57,7 +58,7 @@ export default function App() {
         switch (view) {
             case "game": return <GamePortal user={user} />;
             case "account": return <MyAccount user={user} />;
-            case "admin": return <p>Admin stuff goes here</p>;
+            case "admin": return <AdminDashboard user={user} />
             default: return <GamePortal user={user} />;
         }
     }

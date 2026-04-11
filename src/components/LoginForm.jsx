@@ -7,6 +7,7 @@ import {
 } from "firebase/auth";
 import { setDoc, doc } from "firebase/firestore";
 import { auth, db } from "../firebase";
+
 const googleProvider = new GoogleAuthProvider();
 
 export default function LoginForm() {

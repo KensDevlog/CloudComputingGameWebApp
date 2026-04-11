@@ -4,6 +4,7 @@ import { doc, getDoc, setDoc, serverTimestamp } from "firebase/firestore";
 import { auth, db } from "./firebase";
 import LoginForm from "./components/LoginForm";
 import GamePortal from "./components/GamePortal";
+import NavTab from "./components/NavTab";
 
 
 
@@ -27,6 +28,7 @@ async function createUserProfileIfNeeded(firebaseUser) {
 export default function App() {
     const [user, setUser] = useState(null);
     const [loading, setLoading] = useState(true);
+    const [view, setView] = useState("game");
 
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
@@ -50,9 +52,25 @@ export default function App() {
         )
     }
 
+    const renderView = () => {
+        switch (view) {
+            case "game": return <GamePortal user={user} />;
+            case "account": return <p>Account goes here</p>;
+            case "admin": return <p>Admin stuff goes here</p>;
+            default: return <GamePortal user={user} />;
+        }
+    }
+
     return (
         <div className="app">
-            {user ? <GamePortal user={ user } /> : <LoginForm />}
+            {user ?
+                <>
+                    <NavTab user={user} view={view} setView={setView} />
+                    {renderView()}
+                </>
+                :
+
+                <LoginForm />}
         </div>
     )
 }

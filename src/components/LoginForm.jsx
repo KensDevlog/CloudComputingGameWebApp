@@ -3,10 +3,10 @@ import {
     signInWithEmailAndPassword,
     createUserWithEmailAndPassword,
     signInWithPopup,
-    GoogleAuthProvider
+    GoogleAuthProvider,
 } from "firebase/auth";
-import { auth } from "../firebase";
-
+import { setDoc, doc } from "firebase/firestore";
+import { auth, db } from "../firebase";
 const googleProvider = new GoogleAuthProvider();
 
 export default function LoginForm() {
@@ -15,6 +15,7 @@ export default function LoginForm() {
     const [error, setError] = useState("");
     const [loading, setLoading] = useState(false);
     const [isRegistering, setIsRegistering] = useState(false);
+    const [username, setUsername] = useState("");
 
     function getReadableError(firebaseError) {
         const map = {
@@ -37,7 +38,17 @@ export default function LoginForm() {
 
         try {
             if (isRegistering) {
-                await createUserWithEmailAndPassword(auth, email, password);
+                const { user } = await createUserWithEmailAndPassword(auth, email, password);
+
+                await setDoc(doc(db, "users", user.uid), {
+                    id: user.uid,
+                    displayName: username,
+                    email: user.email,
+                    role: "user",
+                    createdAt: new Date(),
+                    highScore: 0,
+                    gamesPlayed: 0,
+                });
             } else {
                 await signInWithEmailAndPassword(auth, email, password);
             }
@@ -66,6 +77,14 @@ export default function LoginForm() {
                 <h1>NotBeetleball</h1>
                 <p className="subtitle">Sign in</p>
                 <form className="login-form" onSubmit={handleEmailAuth}>
+                    {
+                        isRegistering &&
+                        <div className="field-group">
+                            <label htmlFor="username">UserName</label>
+                            <input id="username" type="text" placeholder="Spencer" value={username} onChange={(e) => setUsername(e.target.value)} required disabled={loading} />
+                        </div>
+                    }
+
                     <div className="field-group">
                         <label htmlFor="email">Email</label>
                         <input id="email" type="email" placeholder="spencer@spencer.com" value={email} onChange={(e) => setEmail(e.target.value)} required disabled={loading} />

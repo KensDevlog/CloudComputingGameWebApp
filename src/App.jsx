@@ -5,6 +5,7 @@ import { auth, db } from "./firebase";
 import LoginForm from "./components/LoginForm";
 import GamePortal from "./components/GamePortal";
 import NavTab from "./components/NavTab";
+import MyAccount from "./components/MyAccount";
 
 
 
@@ -55,7 +56,7 @@ export default function App() {
     const renderView = () => {
         switch (view) {
             case "game": return <GamePortal user={user} />;
-            case "account": return <p>Account goes here</p>;
+            case "account": return <MyAccount user={user} />;
             case "admin": return <p>Admin stuff goes here</p>;
             default: return <GamePortal user={user} />;
         }

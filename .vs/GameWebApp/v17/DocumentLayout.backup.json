@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\GameWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\NavTab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LoginForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -11,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\GamePortal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\scripts\\ingestScores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -31,14 +43,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -76,24 +80,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
-              "RelativeDocumentMoniker": "vite.config.js",
-              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
-              "RelativeToolTip": "vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-11T20:32:09.452Z",
+              "DocumentIndex": 1,
+              "Title": "NavTab.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx",
+              "RelativeDocumentMoniker": "src\\components\\NavTab.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx",
+              "RelativeToolTip": "src\\components\\NavTab.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-11T21:09:47.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "eslint.config.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\eslint.config.js",
               "RelativeDocumentMoniker": "eslint.config.js",
@@ -101,12 +105,11 @@
               "RelativeToolTip": "eslint.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-11T20:32:01.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T20:32:01.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "LeaderBoard.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx",
               "RelativeDocumentMoniker": "src\\components\\LeaderBoard.jsx",
@@ -114,24 +117,25 @@
               "RelativeToolTip": "src\\components\\LeaderBoard.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-26T20:17:14.424Z"
+              "WhenOpened": "2026-03-26T20:17:14.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GamePortal.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\GamePortal.jsx",
               "RelativeDocumentMoniker": "src\\components\\GamePortal.jsx",
               "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\GamePortal.jsx",
               "RelativeToolTip": "src\\components\\GamePortal.jsx",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwGUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-03-25T18:41:47.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -143,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -155,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "package-lock.json",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
@@ -167,32 +171,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
               "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css",
               "RelativeToolTip": "src\\index.css",
-              "ViewState": "AgIAAJ8BAAAAAAAAAIAwwMgBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAAAMgBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-25T18:00:57.048Z"
+              "WhenOpened": "2026-03-25T18:00:57.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginForm.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx",
               "RelativeDocumentMoniker": "src\\components\\LoginForm.jsx",
               "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx",
               "RelativeToolTip": "src\\components\\LoginForm.jsx",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-03-25T17:03:32.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "firebase.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\firebase.js",
               "RelativeDocumentMoniker": "src\\firebase.js",
@@ -204,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -216,7 +221,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-18T18:02:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ingestScores.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\scripts\\ingestScores.js",
               "RelativeDocumentMoniker": "scripts\\ingestScores.js",
@@ -224,25 +242,23 @@
               "RelativeToolTip": "scripts\\ingestScores.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-18T18:03:32.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
-              "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
-              "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-18T18:02:58.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T18:03:32.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-11T20:32:09.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FirebaseBridge.jslib",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
               "RelativeDocumentMoniker": "..\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
@@ -254,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "RunUnityTests.cmd",
               "DocumentMoniker": "C:\\Users\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
               "RelativeDocumentMoniker": "..\\..\\..\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
@@ -266,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -278,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\index.html",
               "RelativeDocumentMoniker": "index.html",

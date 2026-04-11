@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\GameWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\AdminDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AdminDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\MyAccount.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\MyAccount.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\firebase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\firebase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\GamePortal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\GamePortal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\NavTab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LoginForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\scripts\\ingestScores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\ingestScores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\GameWebApp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\AdminDashboard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AdminDashboard.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\AdminDashboard.jsx",
+              "RelativeToolTip": "src\\components\\AdminDashboard.jsx",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-11T22:03:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAccount.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\MyAccount.jsx",
+              "RelativeDocumentMoniker": "src\\components\\MyAccount.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\MyAccount.jsx",
+              "RelativeToolTip": "src\\components\\MyAccount.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-11T21:50:04.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-11T20:32:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaderBoard.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\LeaderBoard.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LeaderBoard.jsx",
+              "RelativeToolTip": "src\\components\\LeaderBoard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T20:17:14.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamePortal.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\GamePortal.jsx",
+              "RelativeDocumentMoniker": "src\\components\\GamePortal.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\GamePortal.jsx",
+              "RelativeToolTip": "src\\components\\GamePortal.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-25T18:41:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-25T18:18:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-25T18:14:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T18:09:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAADoCAAAAAAAAAIAwwFACAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-25T18:00:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\LoginForm.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\LoginForm.jsx",
+              "RelativeToolTip": "src\\components\\LoginForm.jsx",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-25T17:03:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "firebase.js",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\firebase.js",
+              "RelativeDocumentMoniker": "src\\firebase.js",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\firebase.js",
+              "RelativeToolTip": "src\\firebase.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-25T16:46:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJsSURBVDhPjZLNb4xRFMZ/5953TKefWkVUhaTVVCQqhLJDWEgkROwsJU1IaskC8RH/gJW1vaWtINFIlEhqgSI\u002Bog2qjbbGzLzvvedYvB0ZX4lnd26e\u002B9zfc3OEJV0cez54b6pyqxLpQ2P9\u002BA\u002B5wjKs9v16sXf49L09ZO7a5GTx/Nirs/ji/eZlSZ/GiBoENdTyS0Y\u002BRzM0BMwnx9O5112IiJubLawBuYLICo0RM1jelDDY1cyKpgQ1o\u002Bgdg13N9LQUMTNQkzhxd2v/6GjRAYhQM1UAUlX29C7nxsFNjAz1UM6UXWva83lLD2lU0NhmX2dudtSKve6XgksSAS/Clu5WSolj2\u002Bo2vAhOGjzgAf4a4ESYrwVKSY7e19HEYhpx0pCQf80/AoC5auDtQpXD/d2owfvFKr4RocH7h7wIXuDRp0WObVzFu4UqtaAU/ifAifDhW42HHxd5MD3P2PQ8dz985cnnbzz9Uv69BnLxwZsNajohIm0PpxeYrUSQfAecQFTDi\u002BSFAS8OYoo9vlOOldmhOoFz3kMMEFJcDPiYISEj0YDEDBczvAaIae6rE5y7P9nnvb/9amKi882Ll\u002B1RFTOjkHicCFlUEp\u002B/k2YBqVeoVcsxZkMuSZhR7MCL8fFnWq1A9TtaKTOyf5ijOzdzYt8ODm0d4MyRvbQQsWoZahWwvJS7vGtg4eru/pc\u002BKThEUGBlZwcD63roam\u002Bj1FSktbnEulXdDK5fS4iWb1q9AgBmsuPUpXHn/HaNgfaWEp2tLTgnRDUS50hDQNWY\u002BjKH8x7UylHD0M\u002Bo4ZMXRpDkupk6M0OXEBslgHMuJ1gK\u002BAGN2yIYQ90EwwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-18T18:13:11.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-18T18:02:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavTab.jsx",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx",
+              "RelativeDocumentMoniker": "src\\components\\NavTab.jsx",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\src\\components\\NavTab.jsx",
+              "RelativeToolTip": "src\\components\\NavTab.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-11T21:09:47.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ingestScores.js",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\scripts\\ingestScores.js",
+              "RelativeDocumentMoniker": "scripts\\ingestScores.js",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\scripts\\ingestScores.js",
+              "RelativeToolTip": "scripts\\ingestScores.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T18:03:32.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-11T20:32:09.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FirebaseBridge.jslib",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
+              "RelativeDocumentMoniker": "..\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
+              "ToolTip": "C:\\Users\\Public\\Repos\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
+              "RelativeToolTip": "..\\SponderBird\\Plugins\\WebGL\\FirebaseBridge.jslib",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-08T16:33:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RunUnityTests.cmd",
+              "DocumentMoniker": "C:\\Users\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
+              "RelativeDocumentMoniker": "..\\..\\..\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
+              "ToolTip": "C:\\Users\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
+              "RelativeToolTip": "..\\..\\..\\pg29ken\\Documents\\Pipelines\\UnityCITesting\\RunUnityTests.cmd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE8SURBVDhPvZJNSwJRGIWfmcaQiH6DEdEHFBEFBe6KoKKoTf8iAlOmgdbipqBf0rKICAuDkj4WERgulL5o06gLx9S53lZJzrVQgh54uXDOuefdvPAXpJReqW00y4xkQAa8RmtoWb2dz4tLKw0vyACWGZaVSkWZ48SVPDpLKvr3scyw1BtWAPfpLIenl9i5PO92jv2DODd3KW\u002BsjlJg6DqOU2JidIjJsWGckoNhKLE6iuMKQbVaQdQENSFwq1VcV3hjdZSCcrmMBsTPk5wkLtA0SF7f4pQ\u002BvFFoVjA\u002BMsja8hw93V0IV/D69sLj8xOx3T1SD2lvXC34YnVhlvmZIIV8gei2Sd628fs7vbGfCwCKRQdDh/VQBJ\u002Bvo\u002Bnl/low0N/HVmiD4PQUO7EovQH15jTL3MyApjotIbNe5f/5BEiOoURWS5r0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-08T22:51:18.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T18:05:35.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\GameWebApp\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Public\\Repos\\GameWebApp\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-18T18:02:51.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

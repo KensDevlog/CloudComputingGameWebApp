@@ -7,6 +7,7 @@ import GamePortal from "./components/GamePortal";
 import NavTab from "./components/NavTab";
 import MyAccount from "./components/MyAccount";
 import AdminDashboard from "./components/AdminDashboard";
+import AdminCoolerDashboard from "./components/AdminCoolerDashboard";
 
 
 
@@ -58,7 +59,7 @@ export default function App() {
         switch (view) {
             case "game": return <GamePortal user={user} />;
             case "account": return <MyAccount user={user} />;
-            case "admin": return <AdminDashboard user={user} />
+            case "admin": return <AdminCoolerDashboard user={user} />;
             default: return <GamePortal user={user} />;
         }
     }

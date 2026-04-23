@@ -453,7 +453,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 0;
+    width: 100%;
+    min-height: 800px;
+    overflow: visible;
 }
 
 .game-loading {
